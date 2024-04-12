@@ -1,2 +1,4 @@
 Adding new user
 you can also get the user data
+
+//creating a new avatar
